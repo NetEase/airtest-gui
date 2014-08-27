@@ -3,11 +3,12 @@ airtest-gui
 
 This is a PyQt GUI for [airtest](http://git.mt.nie.netease.com/hzsunshx/airtest).
 
-首先需要安装pyqt。
-[点击下载](ftp://mt.nie.netease.com/airtest-gui/PyQt4-4.10.4-gpl-Py2.7-Qt4.8.6-x32.exe)
+## 安装
+首先需要安装pyqt。[点击下载](ftp://mt.nie.netease.com/airtest-gui/PyQt4-4.10.4-gpl-Py2.7-Qt4.8.6-x32.exe)
 
 该pyqt依赖python2.7-32位版。并确保airtest已经安装。
 
+## 使用
 双击`start.bat`启动gui程序。
 
 启动后的页面如下.
