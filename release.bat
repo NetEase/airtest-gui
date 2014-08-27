@@ -1,4 +1,6 @@
 python setup.py py2exe
+pause
+exit
 
 
 copy C:\windows\system32\OLEAUT32.dll dist
@@ -14,4 +16,3 @@ copy C:\windows\system32\WINSPOOL.DRV dist
 copy C:\windows\system32\GDI32.dll dist
 copy C:\windows\system32\VERSION.dll dist
 copy C:\windows\system32\ole32.dll dist
-pause
