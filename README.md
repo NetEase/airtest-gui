@@ -8,9 +8,10 @@ This is a PyQt GUI for [airtest](http://git.mt.nie.netease.com/hzsunshx/airtest)
 
 该pyqt依赖python2.7-32位版。并确保airtest已经安装。
 
-## 使用
-双击`start.bat`启动gui程序。
+[点击下载gui代码](http://git.mt.nie.netease.com/hzsunshx/airtest-gui/archive/master/airtest-gui.zip)
+解压后，双击`start.bat`启动gui程序。
 
+## 使用
 启动后的页面如下.
 
 1. 需要选择连接设备的类型 <android|windows|ios>
