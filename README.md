@@ -1,4 +1,4 @@
-airtest-gui
+airtest-gui 注：已经不再维护
 ==================
 
 This is a PyQt GUI for [airtest](http://git.mt.nie.netease.com/hzsunshx/airtest).
